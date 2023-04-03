@@ -86,7 +86,7 @@ window.addEventListener("DOMContentLoaded", function () {
  */
 
 async function DuplicatedCheck(userid){
-    const url = "http://133.186.144.236:8100/api/users/"+ userid +"/exist"
+    const url = "http://-/api/users/"+ userid +"/exist"
     
     const data = {
         userId: userid
@@ -132,7 +132,7 @@ async function DuplicatedCheck(userid){
  * signup function
  */
 async function Signup(userid,username,userpassword1){
-    const url = "http://133.186.144.236:8100/api/users"
+    const url = "http://-/api/users"
 
     const data = {
         userId: userid,
@@ -149,10 +149,10 @@ async function Signup(userid,username,userpassword1){
         body: JSON.stringify(data)
     }
 
-    const SingCheck = await fetch(url,options);
+    const SignCheck = await fetch(url,options);
 
-    if (!SingCheck.ok) {
-        throw new Error("SingCheck Error");
+    if (!SignCheck.ok) {
+        throw new Error("SignCheck Error");
     }
     // console.log(SingCheck)
     // return SingCheck.redirected;
