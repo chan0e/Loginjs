@@ -1,0 +1,10 @@
+main{
+    width:230px;
+    margin:auto;
+    text-align: center;
+}
+
+main button{
+    width: 80px;
+    height: 50px;
+}

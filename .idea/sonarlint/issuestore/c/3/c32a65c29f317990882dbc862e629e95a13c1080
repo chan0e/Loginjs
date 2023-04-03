@@ -1,0 +1,22 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Ê¶¿ç
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í£€½ùÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÝˆùÏ
+€
+java:S1319
+"jThe type of "treeset" should be an interface such as "SortedSet" rather than the implementation "TreeSet".(é¥Ä´
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÓ÷±ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í©ž²
+>
+java:S2140")Use "java.util.Random.nextInt()" instead.(‡ì¿[
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ú²‘Ï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ñ¹€€ûÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(‚®àØýÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Ì´Ï‚ûÿÿÿÿ

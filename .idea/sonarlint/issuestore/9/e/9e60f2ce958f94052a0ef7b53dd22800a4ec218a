@@ -1,0 +1,37 @@
+
+s	java:S135]"YReduce the total number of break and continue statements in this loop to use at most one.(˜í¬ßøÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì³˜
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î…éß
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©»ÄÕüÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(¹ Ğ¹
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ÑÄÙ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+i
+java:S30088"SRename this field "Namelist" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ·®
+t
+java:S4144Ï"XUpdate this method so that its implementation is not identical to "GETTime" on line 191.(›œ…Íúÿÿÿÿ
+Q	java:S125N"<This block of commented-out lines of code should be removed.(¶¸™´
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(å×½øÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(¸·¾Îşÿÿÿÿ
+E
+java:S1481z"*Remove this unused "fdate" local variable.(¬ïüÿÿÿÿÿ
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(ÎÏ™š
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÄŸ†ıÿÿÿÿ
+A
+java:S1197"*Move the array designators [] to the type.(ì³˜
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(Ø¸¾
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(ÈÉÔÓ
+S
+java:S1117¬"7Rename "out" which hides the field declared at line 61.(Œ«×’øÿÿÿÿ
+S
+java:S1117´"7Rename "out" which hides the field declared at line 61.(Œ«×’øÿÿÿÿ
+d	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¾îï
+d	java:S100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‡é¤
+T
+java:S1117È"8Rename "name" which hides the field declared at line 62.(ëßÍÃüÿÿÿÿ
+i	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›œ…Íúÿÿÿÿ
+B
+java:S1144³"+Remove this unused private "sendTo" method.(£Ùñ¦
